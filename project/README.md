@@ -35,6 +35,6 @@
 
     I did this project mostly to improve myself about OOP concept in python and I think it worked.
 
-https://github.com/AmirEbrahimi82/CS50/blob/main/description.mp4
+https://github.com/AmirEbrahimi82/CS50/blob/27a1857c3bf886875ff4fe09c9ec96383f2aeceb/project/description.mp4
 
 
